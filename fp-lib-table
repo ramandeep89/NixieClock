@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "mynixies")(type "Legacy")(uri "${KIPRJMOD}/Eagle-and-KiCAD-Nixie-Libs-master/mynixies.mod")(options "")(descr ""))
+  (lib (name "nixiemisc")(type "Legacy")(uri "${KIPRJMOD}/Eagle-and-KiCAD-Nixie-Libs-master/nixiemisc.mod")(options "")(descr ""))
+  (lib (name "nixies-us")(type "Legacy")(uri "${KIPRJMOD}/Eagle-and-KiCAD-Nixie-Libs-master/nixies-us.mod")(options "")(descr ""))
+)
